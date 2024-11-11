@@ -13,6 +13,7 @@ using namespace std;
 
 void sortZeroOneTwo(vector<int>& arr, int n){
     // sort(arr.begin(), arr.end());
+    // another method
 
         int zeros = 0;
         int ones = 0;
